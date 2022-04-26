@@ -1,4 +1,4 @@
-# Recursos para Introducción a R para principiantes (y autodidactas)
+# Recursos para Taller de R para principiantes (y autodidactas)
 
 ## Importante:
 El siguiente material es de dominio público o con licencia creative commons (CC-BY) de atribución. Todos los autores de los mismos merecen el crédito por lo que han hecho y se presentan a continuación, con sus respectivos trabajos.
