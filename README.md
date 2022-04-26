@@ -47,36 +47,34 @@ Introducción a R y R Studio por José Ulises Jiménez, Univ. Tecnológica de Pa
 https://cihh.utp.ac.pa/sites/default/files/documentos/2022/pdf/manual-introduccion-r.pdf
 
 Material sobre Curso de R en el ITAM, elaborado por José Manuel Proudinat en 2015 [liberado bajo licencia MIT en GitHub]
-https://github.com/JosmanPS/Curso-R-ITAM-2015/blob/master/Lectura02/Lectura02-Comandos%20b%C3%A1sicos.md
-https://github.com/JosmanPS/Curso-R-ITAM-2015
+1. Segmento de comandos básicos https://github.com/JosmanPS/Curso-R-ITAM-2015/blob/master/Lectura02/Lectura02-Comandos%20b%C3%A1sicos.md
+2. Repositorio general https://github.com/JosmanPS/Curso-R-ITAM-2015
 
 Material didáctico (diapositivas, datos y código) adecuado a cursos introductorios a R. Material elaborado por Oscar Perpiñán Lamigueiro [con licencia CC-BY]
 https://oscarperpinan.github.io/R/
-Con mención especial a:
-Introducción R
-https://github.com/oscarperpinan/R/blob/master/docs/intro.pdf
-Funciones con R
-https://github.com/oscarperpinan/R/blob/master/docs/Funciones.pdf
-Clases y métodos con R
-https://github.com/oscarperpinan/R/blob/master/docs/ClasesMetodos.pdf
-Manipulación de Datos con R y url de datos para jugar
+Con mención especial a los temas:
+1. Introducción R https://github.com/oscarperpinan/R/blob/master/docs/intro.pdf
+2. Funciones con R https://github.com/oscarperpinan/R/blob/master/docs/Funciones.pdf
+3. Clases y métodos con R https://github.com/oscarperpinan/R/blob/master/docs/ClasesMetodos.pdf
+4. Manipulación de Datos con R y url de datos para jugar
 https://github.com/oscarperpinan/R/blob/master/docs/datos.pdf
 https://github.com/oscarperpinan/R/raw/master/data/aranjuez.csv
 
 Manual técnico oficial de R en inglés (actualizado) y español [material de dominio público]
-https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
-https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf
+1. Manual actualizado (en idioma inglés) https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+2. Manual en español https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf
 
-Fuentes de datos, "Expo 2009":
-2008, "Data Expo 2009: Airline on time data", https://doi.org/10.7910/DVN/HG7NV7, Harvard Dataverse, V1
-https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009
+"Expo 2009":
+2008, "Data Expo 2009: Airline on-time performance data", https://doi.org/10.7910/DVN/HG7NV7, Harvard Dataverse, V1
+1. Repositorio principal https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009
+2. Infografía del evento https://stat-computing.org/dataexpo/2009/posters/wicklin-allison.pdf
 
 Jennifer Isasi, "Análisis de sentimientos en R con 'syuzhet'", Programming Historian en español 5 (2021), https://doi.org/10.46430/phes0051.
 https://programminghistorian.org/es/lecciones/analisis-de-sentimientos-r
 
-Sobre las licencias Creative Commons
-
-[https://creativecommons.org/licenses/?lang=es]
+Sobre las licencias Creative Commons y MIT
+1. Creative Commons [https://creativecommons.org/licenses/?lang=es]
+2. MIT [https://opensource.org/licenses/MIT]
 
 # Sobre el instructor del Taller, Alí Adame
 Amante de la tecnología desde que tengo memoria. Disfruto de apoyar a las personas a involucrarse en la sociedad de la información del siglo XXI a través del software y los datos. Entusiasta del eLearning, así como promotor de la transferencia tecnológica y la Inteligencia Artificial.
