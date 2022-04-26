@@ -73,3 +73,12 @@ https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009
 
 Jennifer Isasi, "Análisis de sentimientos en R con 'syuzhet'", Programming Historian en español 5 (2021), https://doi.org/10.46430/phes0051.
 https://programminghistorian.org/es/lecciones/analisis-de-sentimientos-r
+
+Sobre las licencias Creative Commons
+
+[https://creativecommons.org/licenses/?lang=es]
+
+# Sobre el instructor del Taller, Alí Adame
+Amante de la tecnología desde que tengo memoria. Disfruto de apoyar a las personas a involucrarse en la sociedad de la información del siglo XXI a través del software y los datos. Entusiasta del eLearning, así como promotor de la transferencia tecnológica y la Inteligencia Artificial.
+Para saber más consulta el siguiente CV [https://github.com/aldaca15/resume/blob/main/resume.pdf]
+
