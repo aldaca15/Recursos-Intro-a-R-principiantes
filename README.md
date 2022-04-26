@@ -33,7 +33,7 @@ El contenido de este material se enfoca en tres niveles que trataremos de abarca
     2. Análisis de emociones en textos utilizando la librería "syuzhet", un artículo de Jennifer Isasi [https://doi.org/10.46430/phes0051]
     3. Agradecimientos y siguientes pasos.
 
-#BONUS
+# BONUS
 Se incluye material bono y los contenidos usados en el taller en una carpeta llamada "data", visible en las opciones de navegación de GitHub. Si alguien está interesado en hacer una versión expandida de este curso puede hacer un fork del mismo, haciendo mención de su servidor entre los créditos.
 
 # Material consultado y enlaces útiles
