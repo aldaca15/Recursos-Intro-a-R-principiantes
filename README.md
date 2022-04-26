@@ -1,5 +1,4 @@
-# Recursos-Intro-a-R-principiantes
-Recursos para Introducción a R para principiantes (y autodidactas)
+# Recursos para Introducción a R para principiantes (y autodidactas)
 
 ## Importante:
 El siguiente material es de dominio público o con licencia creative commons (CC-BY) de atribución. Todos los autores de los mismos merecen el crédito por lo que han hecho y se presentan a continuación, con sus respectivos trabajos.
@@ -18,7 +17,10 @@ El contenido de este material se enfoca en tres niveles que trataremos de abarca
     2. Instalación de R y R Studio ¿y qué es R Studio? (Ejemplo de la Univ. de Granada https://www.ugr.es/~jchica/Pagina2/GUIME/R/Introduccion%20R.pdf)
     <img src="data/descargarRitam.gif" alt="Invitacion al evento" style="margin:15px;border-radius:10px" /> [https://cran.itam.mx/bin/windows/base/]
     <img src="data/descargarRstudio.gif" alt="Invitacion al evento" style="margin:15px;border-radius:10px" /> [https://www.rstudio.com/products/rstudio/download/]
-    3. Operadores y operaciones básicas [https://cihh.utp.ac.pa/sites/default/files/documentos/2022/pdf/manual-introduccion-r.pdf] [https://github.com/oscarperpinan/R/blob/master/docs/datos.pdf] [https://github.com/JosmanPS/Curso-R-ITAM-2015/blob/master/Lectura02/Lectura02-Comandos%20b%C3%A1sicos.md]
+    3. Operadores, datos y operaciones básicas
+        - Una introducción rápida [https://cihh.utp.ac.pa/sites/default/files/documentos/2022/pdf/manual-introduccion-r.pdf]
+        - Funciones y operaciones de lecturada de datos [https://github.com/oscarperpinan/R/blob/master/docs/datos.pdf]
+        - Lo anterior, más avanzado [https://github.com/JosmanPS/Curso-R-ITAM-2015/blob/master/Lectura02/Lectura02-Comandos%20b%C3%A1sicos.md]
     4. Funciones (opcional) [https://github.com/oscarperpinan/R/blob/master/docs/Funciones.pdf]
     5. Pausa para hidratación. Los mejores del mundo se toman pausas para hidratarse y descansar. <img src="data/break-325924911.jpg" alt="CR7 cuando no mete goles" style="margin:15px;" />
 3. FASE INTERMEDIA, (Análisis aplicado a los datosAplicaciones prácticas del día a día).
