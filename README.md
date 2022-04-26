@@ -20,7 +20,7 @@ El contenido de este material se enfoca en tres niveles que trataremos de abarca
     <img src="data/descargarRstudio.gif" alt="Invitacion al evento" style="margin:15px;border-radius:10px" /> [https://www.rstudio.com/products/rstudio/download/]
     3. Operadores y operaciones básicas [https://cihh.utp.ac.pa/sites/default/files/documentos/2022/pdf/manual-introduccion-r.pdf] [https://github.com/oscarperpinan/R/blob/master/docs/datos.pdf] [https://github.com/JosmanPS/Curso-R-ITAM-2015/blob/master/Lectura02/Lectura02-Comandos%20b%C3%A1sicos.md]
     4. Funciones (opcional) [https://github.com/oscarperpinan/R/blob/master/docs/Funciones.pdf]
-    5. Pausa para hidratación. Los mejores del mundo se toman pausas para hidratarse y descansar. <img src="data/break-325924911.jpeg" alt="CR7 cuando no mete goles" style="margin:15px;" />
+    5. Pausa para hidratación. Los mejores del mundo se toman pausas para hidratarse y descansar. <img src="data/break-325924911.jpg" alt="CR7 cuando no mete goles" style="margin:15px;" />
 3. FASE INTERMEDIA, (Análisis aplicado a los datosAplicaciones prácticas del día a día).
     1. Comprendiendo las diversas presentaciones de los datos estructurados, semi-estructurados y no estructurados.
     2. Descargando los datos de la Expo 2009 con datos de vuelo de 1987 a 2008 de Aeronáutica de Estados Unidos. [https://doi.org/10.7910/DVN/HG7NV7]
