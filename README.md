@@ -12,7 +12,26 @@ Este material se presenta a la audiencia del Taller básico del lenguaje R y se 
 
 ## Contenido
 El contenido de este material se enfoca en tres niveles que trataremos de abarcar en forma general, aumentando la complejidad en cada nivel.
-1.- FASE INICIAL, (Introducción a R, y operadores y funciones)
-2.- FASE INTERMEDIA, (Análisis aplicado a los datosAplicaciones prácticas del día a día)
-3.- FASE AVANZADA, (Aplicaciones más especificas usando librerías)
+1. FASE INICIAL, (Introducción a R, y operadores y funciones)
+    1. Introducción e historia
+[https://cihh.utp.ac.pa/sites/default/files/documentos/2022/pdf/manual-introduccion-r.pdf] [https://github.com/oscarperpinan/R/blob/master/docs/intro.pdf]
+    2. Instalación de R y R Studio ¿y qué es R Studio? (Ejemplo de la Univ. de Granada https://www.ugr.es/~jchica/Pagina2/GUIME/R/Introduccion%20R.pdf)
+    <img src="data/descargarRitam.gif" alt="Invitacion al evento" style="margin:15px;border-radius:10px" /> [https://cran.itam.mx/bin/windows/base/]
+    <img src="data/descargarRstudio.gif" alt="Invitacion al evento" style="margin:15px;border-radius:10px" /> [https://www.rstudio.com/products/rstudio/download/]
+    3. Operadores y operaciones básicas [https://cihh.utp.ac.pa/sites/default/files/documentos/2022/pdf/manual-introduccion-r.pdf] [https://github.com/oscarperpinan/R/blob/master/docs/datos.pdf] [https://github.com/JosmanPS/Curso-R-ITAM-2015/blob/master/Lectura02/Lectura02-Comandos%20b%C3%A1sicos.md]
+    4. Funciones (opcional) [https://github.com/oscarperpinan/R/blob/master/docs/Funciones.pdf]
+    5. Pausa para hidratación. Los mejores del mundo se toman pausas para hidratarse y descansar. <img src="data/break-325924911.jpeg" alt="CR7 cuando no mete goles" style="margin:15px;" />
+3. FASE INTERMEDIA, (Análisis aplicado a los datosAplicaciones prácticas del día a día).
+    1. Comprendiendo las diversas presentaciones de los datos estructurados, semi-estructurados y no estructurados.
+    2. Descargando los datos de la Expo 2009 con datos de vuelo de 1987 a 2008 de Aeronáutica de Estados Unidos. [https://doi.org/10.7910/DVN/HG7NV7]
+    3. Nuestros primeros ejercicios con datos tomados de la Data Expo 2009 y las funciones (y librerías) de graficación.
+    4. Pausa para hidratación. <img src="data/pause-break.jpg" alt="Break, pausa" style="margin:15px;" />
+4. FASE AVANZADA, (Aplicaciones más especificas usando librerías)
+    1. Usando librerías avanzadas para procesamiento de datos en formato texto, utilidades.
+    2. Análisis de emociones en textos utilizando la librería "syuzhet", un artículo de Jennifer Isasi [https://doi.org/10.46430/phes0051]
+    3. Agradecimientos y siguientes pasos.
 
+
+# Material consultado y enlaces útiles
+## Agradecimientos
+El material presentado aunque presentan licencias de uso no comercial, apropiación y remezcla e inclusive dominio público fue elaborado gracias a los esfuerzos del Departamento de Cómputo del ITAM. Gracias al proyecto R y sus miles y miles de voluntarios.
