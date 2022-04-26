@@ -31,7 +31,45 @@ El contenido de este material se enfoca en tres niveles que trataremos de abarca
     2. Análisis de emociones en textos utilizando la librería "syuzhet", un artículo de Jennifer Isasi [https://doi.org/10.46430/phes0051]
     3. Agradecimientos y siguientes pasos.
 
+#BONUS
+Se incluye material bono y los contenidos usados en el taller en una carpeta llamada "data", visible en las opciones de navegación de GitHub. Si alguien está interesado en hacer una versión expandida de este curso puede hacer un fork del mismo, haciendo mención de su servidor entre los créditos.
 
 # Material consultado y enlaces útiles
 ## Agradecimientos
-El material presentado aunque presentan licencias de uso no comercial, apropiación y remezcla e inclusive dominio público fue elaborado gracias a los esfuerzos del Departamento de Cómputo del ITAM. Gracias al proyecto R y sus miles y miles de voluntarios.
+El material presentado aunque presentan licencias de uso no comercial, apropiación y remezcla e inclusive dominio público fue elaborado gracias a los esfuerzos del Departamento de Cómputo del ITAM. Gracias al proyecto R y sus miles y miles de voluntarios. Otros agradecimimentos a U. de Granada, José Jiménez, José Manuel Proudinat, Jennifer Isasi y el equipo de MAXIMA FORMACION por lo materiales generados y su compromiso con el software libre y el material de uso gratuito y altamente didáctico.
+##Y por último pero no menos importante un agradecimiento a la UABC y en particular a la Coordinación y Academia de la Carrera por la realización de actividades especiales para la formación complementaria de estudiantes y otros interesados.
+
+# Enlaces a materiales consultados y sus autores.
+Instalacion de R. Ejemplo de instalación hecho por la U. de Granada
+https://www.ugr.es/~jchica/Pagina2/GUIME/R/Introduccion%20R.pdf
+
+Introducción a R y R Studio por José Ulises Jiménez, Univ. Tecnológica de Panamá, 2019 [material bajo licencia CC-BY]
+https://cihh.utp.ac.pa/sites/default/files/documentos/2022/pdf/manual-introduccion-r.pdf
+
+Material sobre Curso de R en el ITAM, elaborado por José Manuel Proudinat en 2015 [liberado bajo licencia MIT en GitHub]
+https://github.com/JosmanPS/Curso-R-ITAM-2015/blob/master/Lectura02/Lectura02-Comandos%20b%C3%A1sicos.md
+https://github.com/JosmanPS/Curso-R-ITAM-2015
+
+Material didáctico (diapositivas, datos y código) adecuado a cursos introductorios a R. Material elaborado por Oscar Perpiñán Lamigueiro [con licencia CC-BY]
+https://oscarperpinan.github.io/R/
+Con mención especial a:
+Introducción R
+https://github.com/oscarperpinan/R/blob/master/docs/intro.pdf
+Funciones con R
+https://github.com/oscarperpinan/R/blob/master/docs/Funciones.pdf
+Clases y métodos con R
+https://github.com/oscarperpinan/R/blob/master/docs/ClasesMetodos.pdf
+Manipulación de Datos con R y url de datos para jugar
+https://github.com/oscarperpinan/R/blob/master/docs/datos.pdf
+https://github.com/oscarperpinan/R/raw/master/data/aranjuez.csv
+
+Manual técnico oficial de R en inglés (actualizado) y español [material de dominio público]
+https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf
+
+Fuentes de datos, "Expo 2009":
+2008, "Data Expo 2009: Airline on time data", https://doi.org/10.7910/DVN/HG7NV7, Harvard Dataverse, V1
+https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009
+
+Jennifer Isasi, "Análisis de sentimientos en R con 'syuzhet'", Programming Historian en español 5 (2021), https://doi.org/10.46430/phes0051.
+https://programminghistorian.org/es/lecciones/analisis-de-sentimientos-r
