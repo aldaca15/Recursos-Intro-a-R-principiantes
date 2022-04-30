@@ -1,17 +1,30 @@
 # First Data Analysis in R
 # Author: Ali Adame
-# Date: 2018-10-13T15:37:00
+# Date: 2018-10-13T15:37:00\
+# Modified: 2022-04-31T15:37:00\
 
+# Antes que nada te felicito por estar aqui y te deseo exito al poner a prueba tus habilidades de extraccion de datos
 runif(10)
 rnorm(200)
+# Recuerda que en R Studio puedes usar el operador ? antes de una funcion
+# ejemplo la funcion mean(args) que calcula el promedio
+# puedes escribir ?mean y R Studio te va a mostrar ayudas sobre lo que hace un paquete o funcion
 
 # Importing data
+# Algunos de los comentarios en el codigo estan en ingles pues me gusta alternar entre lenguajes y no solo hablo respecto a programación
+# Si la ruta R-intro-data-science no existe en tu disco D o la carpeta no existe puedes crearla o adapartar la ruta
 myVar <- read.csv("D://R-intro-data-science/1987.csv")
 head(myVar)
+# Obtiene primeros datos del conjunto de datos
 head(myVar$Origin)
+# Obtie ultimos registros de la columna de destino de la variable myVar que contiene la info de 1987
 tail(myVar$Dest)
+# Es importante mencionar que en el archivo de airports.csv se tiene el mapeo de aeropuertos y aerodromos de EEUU el cual se puede cargar también en R
+# y usar el comando de viewtable de R Studio para obtener datos relevantes
+# Mas info en: https://support.rstudio.com/hc/en-us/articles/205175388-Using-the-Data-Viewer-in-the-RStudio-IDE
 
 head(myVar$Origin == 'SAN')
+# Total flights from San Diego airport according to IATA code
 sum(myVar$Origin == 'SAN')
 sum(myVar$Dest == 'SAN')
 sum(myVar$Origin == 'ORD')
@@ -82,7 +95,7 @@ head(paste(myVar2008$Origin, "a", myVar2008$Dest))
 table(paste(myVar2008$Origin, "a", myVar2008$Dest))
 # se ordenan y se muestran los primeros origenes y destinos
 head(sort(table(paste(myVar2008$Origin, "a", myVar2008$Dest))))
-# verifica si realmente hubo solo 185 viajes que tuvieron frencuencia de uno en todo el a�o al conectar con otro destino
+# verifica si realmente hubo solo 185 viajes que tuvieron frencuencia de uno en todo el año al conectar con otro destino
 head(sort(table(paste(myVar2008$Origin, "a", myVar2008$Dest))), 286)
 #comprobacion
 #origin-to-destination paths were only flown one time (each) in 2008
